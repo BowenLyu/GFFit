@@ -2,7 +2,7 @@
 
 Normal estimation network preview.
 
-## Result for preview
+## Some Results for Preview
 
 RMSE error on the PCPNet dataset
 
