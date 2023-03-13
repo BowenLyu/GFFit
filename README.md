@@ -1,8 +1,8 @@
 # GFFit
 
-Normal estimation network.
+Normal estimation network preview.
 
-# Result for preview
+## Result for preview
 
 RMSE error on the PCPNet dataset
 
